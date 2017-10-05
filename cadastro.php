@@ -19,7 +19,5 @@
 		<input type="submit" value="cadastrar"/>
 	</form>
 
-
-
 </body>
 </html>
